@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "sourcery.sourcery",
+    "visualstudioexptteam.vscodeintellicode",
+    "sonarsource.sonarlint-vscode",
+    "ms-azuretools.vscode-docker",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "humao.rest-client",
+    "ms-vscode-remote.remote-containers"
+  ]
+}
